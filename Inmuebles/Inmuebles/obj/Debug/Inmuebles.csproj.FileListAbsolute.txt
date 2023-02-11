@@ -6,3 +6,11 @@ C:\Users\mmaye\source\repos\Inmuebles\Inmuebles\obj\Debug\Inmuebles.csproj.Sugge
 C:\Users\mmaye\source\repos\Inmuebles\Inmuebles\obj\Debug\Inmuebles.csproj.CoreCompileInputs.cache
 C:\Users\mmaye\source\repos\Inmuebles\Inmuebles\obj\Debug\Inmuebles.exe
 C:\Users\mmaye\source\repos\Inmuebles\Inmuebles\obj\Debug\Inmuebles.pdb
+C:\Users\mmaye\Documents\GitHub\InmueblesClaseTres\Inmuebles\Inmuebles\bin\Debug\Inmuebles.exe.config
+C:\Users\mmaye\Documents\GitHub\InmueblesClaseTres\Inmuebles\Inmuebles\bin\Debug\Inmuebles.exe
+C:\Users\mmaye\Documents\GitHub\InmueblesClaseTres\Inmuebles\Inmuebles\bin\Debug\Inmuebles.pdb
+C:\Users\mmaye\Documents\GitHub\InmueblesClaseTres\Inmuebles\Inmuebles\obj\Debug\Inmuebles.csproj.AssemblyReference.cache
+C:\Users\mmaye\Documents\GitHub\InmueblesClaseTres\Inmuebles\Inmuebles\obj\Debug\Inmuebles.csproj.SuggestedBindingRedirects.cache
+C:\Users\mmaye\Documents\GitHub\InmueblesClaseTres\Inmuebles\Inmuebles\obj\Debug\Inmuebles.csproj.CoreCompileInputs.cache
+C:\Users\mmaye\Documents\GitHub\InmueblesClaseTres\Inmuebles\Inmuebles\obj\Debug\Inmuebles.exe
+C:\Users\mmaye\Documents\GitHub\InmueblesClaseTres\Inmuebles\Inmuebles\obj\Debug\Inmuebles.pdb

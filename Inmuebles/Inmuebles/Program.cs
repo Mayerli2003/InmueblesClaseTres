@@ -264,11 +264,11 @@ namespace Inmuebles
             }
             public string Emplieado2()
             {
-                return ("Rigoberto Montalvo");
+                return ("Rigoberto Palacios");
             }
             public string Emplieado3()
             {
-                return ("Maria Monterrosa");
+                return ("Maria Mendoza");
             }
 
             Personas personas = new Personas();
@@ -329,7 +329,7 @@ namespace Inmuebles
                 nombreCliente[3] = "Dora Martínez";
 
 
-                Console.WriteLine("Lista de empleados:\n" +
+                Console.WriteLine("Lista de clientes:\n" +
                     "\n1-" + nombreCliente[0] 
                     + "\n ------------------------------------------------------- " +
                     "\n2-" + nombreCliente[1]
@@ -341,11 +341,11 @@ namespace Inmuebles
             }
             public string Cliente1()
             {
-                return ("Marcos Castilllo");
+                return ("Marcos Herrera");
             }
             public string Cliente2()
             {
-                return ("Azucena Montalvo");
+                return ("Azucena Andry");
             }
             public string Cliente3()
             {
